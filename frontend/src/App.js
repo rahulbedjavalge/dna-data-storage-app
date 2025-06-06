@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 
 function App() {
-  const backendURL = 'https://your-backend-name.onrender.com';
+  const backendURL = 'https://dna-data-storage-app-1.onrender.com';
   const [inputText, setInputText] = useState('');
   const [encoded, setEncoded] = useState('');
   const [decoded, setDecoded] = useState('');
