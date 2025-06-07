@@ -30,7 +30,4 @@ npm install
 npm start
 ```
 
-## 🔗 Live Demo
 
-- Frontend: https://your-dna-frontend.netlify.app
-- Backend: https://your-backend-name.onrender.com
